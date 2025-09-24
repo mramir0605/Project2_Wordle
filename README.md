@@ -1,10 +1,10 @@
-# Project 2 - *Project2 Wordle*
+# Project 2 - *Wordle*
 
 Submitted by: **Mary Ramirez**
 
-**Project2 Wordle** is a game where you try to guess a secret word within a limited number of tries. Each time you make a guess, the game gives you hints showing which letters are in the word and whether they are in the correct positions. Your goal is to use these clues to figure out the secret word before you run out of guesses. Also, it allows the user access to the  settings screen and modify the rules of the game.
+**Wordle** is a game where you try to guess a secret word within a limited number of tries. Each time you make a guess, the game gives you hints showing which letters are in the word and whether they are in the correct positions. Your goal is to use these clues to figure out the secret word before you run out of guesses. Also, it allows the user access to the  settings screen and modify the rules of the game.
 
-Time spent: **15** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge that I faced in Exercise 1 was figuring out how to take the value from settings[kNumLettersKey], since it comes back as Any.
+At first, I tried to assign it directly to numItemsPerRow, but I got an error and realized I needed to cast it to an Int using as? Int.
 
 ## License
 
