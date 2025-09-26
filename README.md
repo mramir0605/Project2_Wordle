@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [X] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
