@@ -4,7 +4,7 @@ Submitted by: **Mary Ramirez**
 
 **Wordle** is a game where you try to guess a secret word within a limited number of tries. Each time you make a guess, the game gives you hints showing which letters are in the word and whether they are in the correct positions. Your goal is to use these clues to figure out the secret word before you run out of guesses. Also, it allows the user access to the  settings screen and modify the rules of the game.
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="Walkthrough.gif" alt="Walkthrough" width='300'>
+<img src="Walkthrough_1.gif" alt="Walkthrough" width='300'>
 
 ## Notes
 
